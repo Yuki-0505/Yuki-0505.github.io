@@ -1,4 +1,8 @@
 ## 1. 个人信息
+<div style="float:right">
+  <img src="./avatar.png" width="100">
+</div>
+
   - 姓名：佘武隆
   - 性别：男
   - 出生日期：1999-11-06
