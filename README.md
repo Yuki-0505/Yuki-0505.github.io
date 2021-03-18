@@ -16,7 +16,7 @@
   - 专业：本科、软件工程专业
 
 ## 3. 技能与证书
-  - 熟练**掌握**`原生javascript`，熟悉`jquery`，了解`vue`、`typescript`
+  - 熟练**掌握**`原生javascript`，熟悉`jquery`、`vue`，了解`react`、`typescript`
   - 对后端有一定认知，**掌握**`node`，熟悉`java`，`mysql`，了解`python`、`linux`
   - 曾**两**次获得校级**三**等奖学金
   - 证书：**软件设计师证**
